@@ -1,6 +1,6 @@
 # AI Music Generator
 
-AI Music Generator developed using Python and Streamlit.
+A Python and Streamlit based application that generates unique musical note sequences and exports them as MIDI files
 
 ## Features
 - Melody Generation
